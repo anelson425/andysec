@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://anelson425.github.io/andysec/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
