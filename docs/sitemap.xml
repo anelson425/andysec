@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://andysec.net/categories/</loc>
+    <loc>https://andysec.net/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://andysec.net/</loc>
+    <loc>https://andysec.net/categories/</loc>
     <priority>0</priority>
   </url>
   
