@@ -16,7 +16,7 @@ publishdir = "docs"
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
+    title = "Andy's Security Blog"
     subtitle = "A simple theme for Hugo"
     keywords = ""
     copyright = ""
