@@ -1,8 +1,8 @@
-baseurl = "anelson425.github.io/andysec"
+baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
-publishdir = "docs"
+publishDir = "docs"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
