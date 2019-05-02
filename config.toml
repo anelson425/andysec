@@ -17,7 +17,7 @@ publishdir = "docs"
 [languages]
   [languages.en]
     title = "Andy's Security Blog"
-    subtitle = "A simple theme for Hugo"
+    subtitle = ""
     keywords = ""
     copyright = ""
     menuMore = "Show more"
