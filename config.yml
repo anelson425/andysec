@@ -10,8 +10,8 @@ params:
   showReadingTime: true
 languages:
   en:
-    title: Hello Friend
-    subtitle: A simple theme for Hugo
+    title: Andy Sec
+    subtitle: A place for Andy to learn more about security
     keywords: ''
     copyright: ''
     menuMore: Show more
