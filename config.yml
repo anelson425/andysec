@@ -25,13 +25,10 @@ languages:
     dateFormatList: '2006-01-02'
     params:
       logo:
-        logoText: hello friend
+        logoText: andy sec
         logoHomeLink: /
     menu:
       main:
         - identifier: about
           name: About
           url: /about
-        - identifier: showcase
-          name: Showcase
-          url: /showcase
