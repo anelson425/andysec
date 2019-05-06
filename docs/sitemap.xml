@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://andysec.net/posts/05_05_19_getting_started/</loc>
+    <loc>https://andysec.net/blog/05_05_19_getting_started/</loc>
     <lastmod>2019-05-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,13 +18,13 @@
   </url>
   
   <url>
-    <loc>https://andysec.net/categories/</loc>
+    <loc>https://andysec.net/blog/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://andysec.net/posts/</loc>
-    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+    <loc>https://andysec.net/categories/</loc>
     <priority>0</priority>
   </url>
   

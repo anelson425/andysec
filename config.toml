@@ -7,7 +7,7 @@ googleAnalytics = "UA-139625461-1"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
+  contentTypeName = "blog"
   # "light" or "dark"
   defaultTheme = "dark"
   # if you set this to 0, only submenu trigger will be visible
@@ -51,4 +51,4 @@ googleAnalytics = "UA-139625461-1"
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "Blog"
-        url = "/posts"
+        url = "/blog"

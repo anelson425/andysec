@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Andy Sec</title>
+    <link>https://andysec.net/blog/</link>
+    <description>Recent content in Blogs on Andy Sec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andysec.net/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello Friend</title>
+      <link>https://andysec.net/blog/05_05_19_getting_started/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andysec.net/blog/05_05_19_getting_started/</guid>
+      <description>Getting started</description>
+    </item>
+    
+  </channel>
+</rss>
