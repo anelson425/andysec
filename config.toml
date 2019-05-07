@@ -13,7 +13,7 @@ googleAnalytics = "UA-139625461-1"
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 5
   # Show reading time in minutes for posts
-  showReadingTime = false
+  showReadingTime = true
 
 [languages]
   [languages.en]
